@@ -1,0 +1,20 @@
+cff-version: 1.0.0
+message: Please cite this software using these metadata.
+title: I&N Kids
+authors:
+    - family-names: Bomtempo Colen
+      given-names: Artur
+    - family-names: Rodrigues Cronenberger
+      given-names: Julia
+    - family-names: Félix dos Santos
+      given-names: Pedro Henrique
+keywords:
+    - educação
+    - desenvolvimento
+    - pedagogia
+    - programação
+    - crianças
+repository-code: https://github.com/ICEI-PUC-Minas-PPLCC-TI/ti-1-ppl-cc-m-20241-3-i-n-kids
+license: CC BY-ND 4.0
+version: 1.0.0
+date-released: 2024-06-30
